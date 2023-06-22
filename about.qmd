@@ -2,8 +2,24 @@
 title: "About"
 ---
 
-About this site
+## About Me
 
-```{r}
-1 + 1
-```
+My name is **Rishi** and I'm a rising senior at Walter Payton College Prep.
+
+## About the Project
+
+*Fuel Efficiency and Weight*
+
+This is my project about how a vehicle's weight is related to its fuel efficiency.
+
+### Goals
+
+-   Insert goal here
+-   Insert another goal here
+    -   Insert challenge for said goal
+
+"This is data science" 
+\
+~Preceptor
+
+["Kane's Free Data Science Bootcamp"](https://bootcamp.davidkane.info)

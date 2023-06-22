@@ -4,6 +4,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "My name is Rishi and I’m a rising senior at Walter Payton College Prep."
+  },
+  {
+    "objectID": "about.html#about-the-project",
+    "href": "about.html#about-the-project",
+    "title": "About",
+    "section": "About the Project",
+    "text": "About the Project\nFuel Efficiency and Weight\nThis is my project about how a vehicle’s weight is related to its fuel efficiency.\n\nGoals\n\nInsert goal here\nInsert another goal here\n\nInsert challenge for said goal\n\n\n“This is data science”\n~Preceptor\n“Kane’s Free Data Science Bootcamp”"
   }
 ]
