@@ -12,5 +12,12 @@
     "title": "About",
     "section": "About the Project",
     "text": "About the Project\nFuel Efficiency and Weight\nThis is my project about how a vehicle’s weight is related to its fuel efficiency.\n\nGoals\n\nInsert goal here\nInsert another goal here\n\nInsert challenge for said goal\n\n\n“This is data science”\n~Preceptor\n“Kane’s Free Data Science Bootcamp”"
+  },
+  {
+    "objectID": "sources.html",
+    "href": "sources.html",
+    "title": "Sources",
+    "section": "",
+    "text": "An overview of sources used in my project. These are my sources. Here are some challenges. Quarto websites are awesome."
   }
 ]

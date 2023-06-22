@@ -7,7 +7,19 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - sidebar:sources
+  
+  sidebar:
+    - id: sources
+      title: "Sources"
+      style: "floating"
+      background: "#ffffff"
+      collapse-level: 2
+      contents:
+        - source-1.qmd
+        - source-2.qmd
 
 format:
   html:
@@ -16,4 +28,3 @@ format:
     toc: true
 
 editor: visual
-
