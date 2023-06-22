@@ -19,5 +19,12 @@
     "title": "Sources",
     "section": "",
     "text": "An overview of sources used in my project. These are my sources. Here are some challenges. Quarto websites are awesome."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "first-website",
+    "section": "",
+    "text": "Saving 7 x 5 in image\n\n\n\ninclude_graphics(\"images/car-plot.png\")"
   }
 ]
